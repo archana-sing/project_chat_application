@@ -4,6 +4,11 @@ I have created a chat application with the help of websockets , Node.js , Expres
 This chat application let a user to join a group and chat with other members of group.
 
 
+## Demo Of the application
+
+  * https://github.com/archana-sing/project_chat_application/blob/master/Samples/chat%20application%20video.mp4
+
+
 # Steps to install the project:
 
 ## Install basic Software:
@@ -33,12 +38,17 @@ This chat application let a user to join a group and chat with other members of 
   * Express
   * socket.io
 
-## Demo Of the application
 
-  * https://github.com/archana-sing/project_chat_application/blob/master/Samples/chat%20application%20video.mp4
-      
       
 ## How to use the product
+
+ 1. When you pen the url http://localhost:3000 in your brower , you will see the follwing page , where you need to write your name and select a group and click the **Join Room** button.
+
+  ![chat home Page](https://github.com/archana-sing/project_chat_application/blob/master/Samples/chatapp.png)
+  
+ 2. Now you ca chat with other members present in the group.
+
+  ![chat Page](https://github.com/archana-sing/project_chat_application/blob/master/Samples/localhost_3000_chat(Laptop%20with%20MDPI%20screen).png)
 
 
   ### Contributor:
