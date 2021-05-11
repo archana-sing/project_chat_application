@@ -6,7 +6,7 @@ This chat application let a user to join a group and chat with other members of 
 
 ## Demo Of the application
 
-  * https://github.com/archana-sing/project_chat_application/blob/master/Samples/chat%20application%20video.mp4
+  * https://bit.ly/3xWPGOB
 
 
 # Steps to install the project:
